@@ -1,0 +1,18 @@
+/*
+* @Author: 宏达
+* @Date:   2017-08-17 16:01:52
+* @Last Modified by:   宏达
+* @Last Modified time: 2017-08-21 19:00:43
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: "微软雅黑","宋体",sans-serif;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background: #fff;
+}
